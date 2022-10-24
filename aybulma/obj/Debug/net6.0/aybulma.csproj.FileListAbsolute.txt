@@ -1,0 +1,15 @@
+C:\Users\Nida\source\repos\aybulma\aybulma\bin\Debug\net6.0\aybulma.exe
+C:\Users\Nida\source\repos\aybulma\aybulma\bin\Debug\net6.0\aybulma.deps.json
+C:\Users\Nida\source\repos\aybulma\aybulma\bin\Debug\net6.0\aybulma.runtimeconfig.json
+C:\Users\Nida\source\repos\aybulma\aybulma\bin\Debug\net6.0\aybulma.dll
+C:\Users\Nida\source\repos\aybulma\aybulma\bin\Debug\net6.0\aybulma.pdb
+C:\Users\Nida\source\repos\aybulma\aybulma\obj\Debug\net6.0\aybulma.csproj.AssemblyReference.cache
+C:\Users\Nida\source\repos\aybulma\aybulma\obj\Debug\net6.0\aybulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nida\source\repos\aybulma\aybulma\obj\Debug\net6.0\aybulma.AssemblyInfoInputs.cache
+C:\Users\Nida\source\repos\aybulma\aybulma\obj\Debug\net6.0\aybulma.AssemblyInfo.cs
+C:\Users\Nida\source\repos\aybulma\aybulma\obj\Debug\net6.0\aybulma.csproj.CoreCompileInputs.cache
+C:\Users\Nida\source\repos\aybulma\aybulma\obj\Debug\net6.0\aybulma.dll
+C:\Users\Nida\source\repos\aybulma\aybulma\obj\Debug\net6.0\refint\aybulma.dll
+C:\Users\Nida\source\repos\aybulma\aybulma\obj\Debug\net6.0\aybulma.pdb
+C:\Users\Nida\source\repos\aybulma\aybulma\obj\Debug\net6.0\aybulma.genruntimeconfig.cache
+C:\Users\Nida\source\repos\aybulma\aybulma\obj\Debug\net6.0\ref\aybulma.dll
